@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "github.pitbox46.billboarding.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "billboarding.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "BlockRenderDispatcherMixin",
+    "LevelRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
