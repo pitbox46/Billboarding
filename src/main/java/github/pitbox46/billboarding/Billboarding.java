@@ -58,6 +58,5 @@ public class Billboarding {
 //        }));
         addBillboardingToBlock("wildbackport:mangrove_propagule");
         addBillboardingToBlock("phantasm:oblivine", "phantasm:hanging_pream_berry");
-        addBillboardingToBlock("minecraft:big_dripleaf_stem");
     }
 }
