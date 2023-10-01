@@ -19,7 +19,7 @@ apply plugin: 'org.spongepowered.mixin'
 apply plugin: 'org.parchmentmc.librarian.forgegradle'
 
 group = 'github.pitbox46'
-version = '1.18-1.0.7'
+version = '1.18-1.0.8'
 
 java {
     archivesBaseName = 'billboarding'

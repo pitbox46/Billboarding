@@ -57,6 +57,7 @@ public class Billboarding {
 //            RendererEventHandler.TO_ADD.put(a.pos().immutable(), ((FlowerPotBlock) a.state().getBlock()).getContent().defaultBlockState());
 //        }));
         addBillboardingToBlock("wildbackport:mangrove_propagule");
-        addBillboardingToBlock("plus_the_end:end_shroom_stem", "plus_the_end:end_vines", "plus_the_end:end_gem_cluster");
+        addBillboardingToBlock("phantasm:oblivine", "phantasm:hanging_pream_berry");
+        addBillboardingToBlock("minecraft:big_dripleaf_stem");
     }
 }
